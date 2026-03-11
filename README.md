@@ -1,6 +1,6 @@
 # ✍🏼 Syntecxhub Blog Application
 
-A full-stack blog platform that enables users to create, edit, publish, and manage blog posts through a clean and responsive web interface. The application is designed with a modular architecture, secure authentication, and scalable backend APIs.
+A full-stack blog platform that enables users to create, edit, publish, and manage blog posts through a clean and responsive web interface. Also features image upload functionality. The application is designed with a modular architecture, secure authentication, and scalable backend APIs.
 
 This project demonstrates the implementation of a modern web application using a MERN stack architecture, focusing on structured code organization, RESTful APIs, and efficient state management.
 
@@ -9,6 +9,8 @@ This project demonstrates the implementation of a modern web application using a
 - User authentication and authorization
 
 - Create, edit, and delete blog posts
+
+- Image uploads
 
 - Dynamic blog listing and detail pages
 
@@ -24,13 +26,13 @@ This project demonstrates the implementation of a modern web application using a
 
 ## 🚀 Tech Stack
 
-- **Frontend**: React, React Router  
+- **Frontend**: React, React Router
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB (via Mongoose)  
 - **State / Context**: React Context API  
 - **Styling**: Tailwind CSS, React Quill (Rich Text Editor)
 - **Authentication**: Basic (login/register) using user IDs as tokens 
-- **Dev tools**: Axios for HTTP requests, React Toastify for notifications
+- **Dev tools**: Axios for HTTP requests, React Toastify for notifications, Cloudinary/Multer for image upload
   
  ## 📸 Screenshots
 

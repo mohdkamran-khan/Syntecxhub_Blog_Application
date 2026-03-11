@@ -1,6 +1,6 @@
 # ✍🏼 Syntecxhub Blog Application
 
-A full-stack blog platform that enables users to create, edit, publish, and manage blog posts through a clean and responsive web interface. Also features image upload functionality. The application is designed with a modular architecture, secure authentication, and scalable backend APIs.
+A full-stack blog platform that enables users to create, edit, publish, and manage blog posts with a rich text editor through a clean and responsive web interface. Also features image upload functionality. The application is designed with a modular architecture, secure authentication, and scalable backend APIs.
 
 This project demonstrates the implementation of a modern web application using a MERN stack architecture, focusing on structured code organization, RESTful APIs, and efficient state management.
 
